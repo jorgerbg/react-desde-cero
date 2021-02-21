@@ -17,13 +17,8 @@ const App = () => (
     </div>
 
     <div className="ed-grid m-grid-3">
-      <Curso />
-      <Curso />
-      <Curso />
-      <Curso />
-      <Curso />
-      <Curso />
-      <Curso />
+      <Curso title="React desde cero" price="20 USD"/>
+      <Curso title="Html desde cero" price="10 USD"/>
     </div>
   </>
 )
